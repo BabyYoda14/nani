@@ -9,14 +9,43 @@ margin-left: 20%;
 border-width: 2px;
 border-style: solid;
 border-color: rgb(123, 53, 194);
-
-
-
-
-
-
-
-
+padding-left: 10px;
+padding-right: 10px;
 
 
 }
+h4 {
+text-align: center;
+border-bottom-width: 1px;
+border-bottom-style: dashed;
+border-bottom-color:red ; 
+}
+
+h6 {
+
+}
+
+img{
+   border-style: dashed;
+width: 70%;
+height: 25%;
+display: block;
+margin-left: 25%;
+margin-right: 25%; 
+}
+#whuyyyy {
+   background-color: rgb(80, 235, 255);
+   text-align: center;
+   border-width:  1px;
+   border-style: solid;
+   border-color: maroon;
+}
+#ok006660robotclone{
+   position: fixed;
+ }
+ #šńøw {
+background-color:rgb(148, 255, 246);  
+border-width: 13px;
+border-style: round;
+border-color: rgb(3, 26, 151);
+ }
